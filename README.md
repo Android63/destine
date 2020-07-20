@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Destine's first website
 
 You can use the [editor on GitHub](https://github.com/Android63/github-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
